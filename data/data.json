@@ -1,0 +1,108 @@
+{
+    "Zonai": {
+        "Mighty Zonaite Sword": 10,
+        "Mighty Zonaite Longsword": 10,
+        "Mighty Zonaite Spear": 10,
+        "Strong Zonaite Sword": 5,
+        "Strong Zonaite Longsword": 5,
+        "Strong Zonaite Spear": 5,
+        "Zonaite Sword": 3,
+        "Zonaite Longsword": 3,
+        "Zonaite Spear": 3
+    },
+    "Gerudo": [
+        "Gerudo Scimitar",
+        "Gerudo Scimitar\u2728",
+        "Scimitar of the Seven",
+        "Gerudo Claymore",
+        "Gerudo Claymore\u2728",
+        "Gerudo Spear\u2728",
+        "Gerudo Spear"
+    ],
+    "Zora": [
+        "Zora Sword",
+        "Zora Sword\u2728",
+        "Zora Longsword",
+        "Zora Longsword\u2728",
+        "Zora Spear\u2728",
+        "Lightscale Trident",
+        "Zora Spear"
+    ],
+    "RG": [
+        "Royal Guard's Sword",
+        "Royal Guard's Sword\u2728",
+        "Royal Guard's Claymore",
+        "Royal Guard's Claymore\u2728",
+        "Royal Guard's Spear\u2728",
+        "Royal Guard's Spear"
+    ],
+    "Royal": [
+        "Royal Broadsword",
+        "Royal Broadsword\u2728",
+        "Royal Claymore",
+        "Royal Claymore\u2728",
+        "Royal Halberd\u2728",
+        "Royal Halberd"
+    ],
+    "Knight": [
+        "Knight's Broadsword",
+        "Knight's Broadsword\u2728",
+        "Knight's Claymore",
+        "Knight's Claymore\u2728",
+        "Knight's Halberd\u2728",
+        "Knight's Halberd"
+    ],
+    "Sheikah": [
+        "Eightfold Blade",
+        "Eightfold Blade\u2728"
+    ],
+    "isZonai": [
+        "Zonai Charge",
+        "Large Zonai Charge",
+        "Soldier Construct Horn",
+        "Soldier Construct II Horn",
+        "Soldier Construct III Horn",
+        "Soldier Construct IV Horn",
+        "Captain Construct II Horn",
+        "Captain Construct III Horn",
+        "Captain Construct IV Horn",
+        "Flux Construct I Core",
+        "Flux Construct II Core",
+        "Flux Construct III Core",
+        "Captain Construct I Horn",
+        "Zonaite",
+        "Large Zonaite",
+        "Zonaite Sword",
+        "Strong Zonaite Sword",
+        "Mighty Zonaite Sword",
+        "Zonaite Longsword",
+        "Strong Zonaite Longsword",
+        "Mighty Zonaite Longsword",
+        "Zonaite Spear",
+        "Strong Zonaite Spear",
+        "Mighty Zonaite Spear",
+        "Zonaite Bow",
+        "Construct Bow",
+        "Strong Construct Bow",
+        "Mighty Construct Bow",
+        "Zonaite Shield",
+        "Strong Zonaite Shield",
+        "Mighty Zonaite Shield",
+        "Flux Construct I Core",
+        "Flux Construct II Core",
+        "Flux Construct III Core"
+    ],
+    "Bone": [
+        "Stalnox Horn",
+        "Molduga Jaw",
+        "Gibdo Bone",
+        "Bokoblin Arm",
+        "Lizalfos Arm",
+        "Moblin Arm",
+        "Spiked Boko Bow",
+        "Lizal Bow",
+        "Dragonbone Boko Bow",
+        "Spiked Boko Shield",
+        "Dragonbone Boko Shield"
+    ]
+}
